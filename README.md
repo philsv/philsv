@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I create functional websites, develop RAG applications, and design efficient data pipelines. I enjoy tackling challenges and finding thoughtful solutions to help make technology work smoothly.
-
 ![Philsv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philsv&show_icons=true&theme=github_dark_dimmed)
 
 
