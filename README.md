@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Philsv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philsv&show_icons=true&theme=github_dark)
+![Philsv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philsv&show_icons=true&theme=github_dark_dimmed)
 
 # Stats
 ![Philsv's GitHub stats](https://github-readme-stats.vercel.app/api?username=philsv&show_icons=true&theme=github_dark_dimmed)
